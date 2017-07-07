@@ -1,2 +1,2 @@
 # Systemy operacyjne
-Problem plecakowy oraz komiowojażera
+Projekt wielowątkowy wykorzystujący linuxowe pthreads oraz ncures do wyświetlania aktualnych informacji w konsoli.
